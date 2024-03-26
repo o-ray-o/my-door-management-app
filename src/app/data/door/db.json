@@ -1,0 +1,52 @@
+{
+  "doors": [
+    {
+      "id": 1,
+      "doorName": "Main Entrance",
+      "connectionStatus": "Online",
+      "connectionType": "Wired"
+    },
+    {
+      "id": 1,
+      "doorName": "Main Entrance",
+      "connectionStatus": "Online",
+      "connectionType": "Wired"
+    },
+    {
+      "id": 1,
+      "doorName": "Gym",
+      "connectionStatus": "Offline",
+      "connectionType": "Wired"
+    },
+    {
+      "id": 1,
+      "doorName": "Garage",
+      "connectionStatus": "Online",
+      "connectionType": "Wired"
+    },
+    {
+      "id": 1,
+      "doorName": "Entrance",
+      "connectionStatus": "Online",
+      "connectionType": "Wireless"
+    },
+    {
+      "id": 1,
+      "doorName": "Entrance",
+      "connectionStatus": "Online",
+      "connectionType": "Wireless"
+    },
+    {
+      "id": 1,
+      "doorName": "Entrance",
+      "connectionStatus": "Online",
+      "connectionType": "Wireless"
+    },
+    {
+      "id": 1,
+      "doorName": "Entrance",
+      "connectionStatus": "Online",
+      "connectionType": "Wireless"
+    }
+  ]
+}
